@@ -7,6 +7,7 @@ In this exercise I fetch, manipulated, and rendered data from Hacker News.  I us
 ## Future Improvements
 I want to obtain an API from other external source to fetch data from and chanage the look and features of the page to be tailored to this source.
 
+## Run Code
 To run this code you must clone this code on the command line and run it on a local server.
 
 License through MIT
